@@ -1,8 +1,6 @@
-# Wattanit.info Source Code
+# Exhibition Theme Template
 
-This is the source code of www.wattanit.info , a personal landing website of Dr Wattanit Hotrakool.
-
-The site is a [Gatsby](https://www.gatsbyjs.org/) website based on "Exhibition" theme also designed specifically for Wattanit.info.
+The site is a [Gatsby](https://www.gatsbyjs.org/) website template using the "Exhibition" theme designed specifically for [Wattanit.info](https://www.wattanit.info).
 
 ## Quick start
 

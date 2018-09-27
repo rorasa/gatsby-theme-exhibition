@@ -13,7 +13,7 @@ The site is a [Gatsby](https://www.gatsbyjs.org/) website template using the "Ex
 2.  **Start the development server**
 
     ```sh
-    cd wattanit-info/
+    cd gatsby-theme-exhibition/
     gatsby develop
     ```
 
